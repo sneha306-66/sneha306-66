@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sneha Sharma 👋  
+### Full Stack MERN Developer | Turning ideas into working web apps 🚀
 
-<!--
-**sneha306-66/sneha306-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently enhancing my MERN stack skills  
+💼 Interested in internships & real-world projects  
+💬 Ask me about: React, Node.js, Express, MongoDB  
+📫 Reach me at: sneha30666@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📦 Featured Projects
+### 🔹 MERN User Management System
+- Login / Signup  
+- JWT Authentication  
+- Image Upload  
+- CRUD Users  
+
+### 🔹 Product Manager (MERN)
+- Category + Product CRUD  
+- Pagination  
+- Image handling  
+
+---
+
+## 📊 GitHub Stats
+
+![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha306-66&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha306-66&layout=compact&theme=tokyonight)
