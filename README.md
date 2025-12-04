@@ -32,6 +32,6 @@
 
 ## 📊 GitHub Stats
 
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha306-66&show_icons=true&theme=tokyonight)
+![Sneha's GitHub stats](https://github-readme-stats-orpin-ten.vercel.app/api?username=sneha306-66&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha306-66&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-orpin-ten.vercel.app/api/top-langs/?username=sneha306-66&layout=compact&theme=radical)
